@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "slug": "gpsr-fiches-produits-shopify",
+      "title": "GPSR : quelles informations afficher sur vos fiches produits Shopify",
+      "description": "GPSR : les 4 informations obligatoires sur vos fiches produits Shopify et comment les afficher avec les métachamps, étape par étape, avec checklist.",
+      "date": "2026-11-23",
+      "category": "GPSR"
+    },
+    {
       "slug": "bouton-retractation-shopify",
       "title": "Bouton de rétractation obligatoire : comment l'ajouter sur Shopify",
       "description": "Bouton de rétractation obligatoire depuis le 19 juin 2026 : ce que dit la loi et comment l'ajouter sur Shopify, étape par étape, avec checklist.",
